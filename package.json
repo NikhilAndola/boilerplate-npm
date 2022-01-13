@@ -1,5 +1,6 @@
 {
-	"name": "nikhil andola",
+	"name": "node-starter",
+	"author": "nikhil andola",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
